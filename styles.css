@@ -14,6 +14,21 @@ h1, h2, h3, h4, h5, h6, span {
 
  p {
     line-height: 1.5;
-    font-size: 16px;
-    
+    font-size: 16px;   
+ }
+
+ /* NAVIGATION BAR */
+
+ nav {
+    height: 100px;
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ }
+
+ .nav__link--list {
+    display: flex;
  }
