@@ -20,7 +20,14 @@ h1, h2, h3, h4, h5, h6, span {
  li {
     list-style-type: none;
  }
- 
+
+.flex {
+    display: flex;
+}
+
+ .flex-1 {
+    flex:1;
+ }
  /* NAVIGATION BAR */
 
 nav {
@@ -63,4 +70,18 @@ nav {
     font-weight: bold;
   }
 
+/* ABOUT ME*/
 
+#about-me {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.about-me__info--container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
