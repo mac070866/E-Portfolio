@@ -23,7 +23,7 @@ h1, h2, h3, h4, h5, h6, span {
  
  /* NAVIGATION BAR */
 
- nav {
+nav {
     height: 100px;
     width: 100%;
     max-width: 1000px;
@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6, span {
     display: flex;
  }
 
-.nav__link--anchor {
+ .nav__link--anchor {
     margin: 0 12 px;
     color: #242424;
     text-decoration: none;
@@ -63,3 +63,5 @@ h1, h2, h3, h4, h5, h6, span {
     font-weight: bold;
     
 }
+
+
