@@ -228,7 +228,7 @@ nav {
     align-items: center;
 }
 
-.about-me__img--img {
+.about-me__img {
     width: 100%;
     animation: fade-in 1200ms 800ms backwards;
 }
@@ -278,12 +278,12 @@ nav {
     transform: scale(0.9);
 }
 
-.language (
-    width: 25%
+.language {
+    width: 25%;
     display: flex;
     justify-content: center;
     position: relative;
-)
+}
 
 .language__img--wrapper {
     display: flex;
@@ -349,7 +349,7 @@ nav {
     z-index: 2;
 }
 
-.project:hover .product__wrapp:before {
+.project:hover .product__wrapper:before {
     opacity: 0.7;
 }
 
@@ -455,7 +455,7 @@ footer {
 
 /* SMALL PHONES, TABLETS, LARGE SMARTPHONES */
 
-@media (max-wdith: 768px) {
+@media (max-width: 768px) {
     nav {
         height: 68px;
     }
