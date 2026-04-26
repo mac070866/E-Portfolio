@@ -349,7 +349,7 @@ nav {
     z-index: 2;
 }
 
-.project:hover .product__wrapper:before {
+.project:hover .project__wrapper:before {
     opacity: 0.7;
 }
 
