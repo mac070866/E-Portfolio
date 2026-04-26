@@ -246,8 +246,6 @@ nav {
     100% {
         opacity: 1;
     }
-
-
 }
 
 .wave {
@@ -260,10 +258,10 @@ nav {
         transform: rotate(0);
     }
     50% {
-        transform: rotate (30 deg);
+        transform: rotate(30 deg);
     }
     100% {
-        transform: roate (0);
+        transform: rotate(0);
     }
 }
 /* TECH - STACK */
