@@ -324,11 +324,11 @@ nav {
 /* PROJECTS */
 
 .project {
-    margin-bottom: 80px;
+    margin-bottom: 40px;
 }
 
 .project:last-child {
-    margin-bottom: 80px;
+    margin-bottom: 0px;
 }
 
 .project__img {
