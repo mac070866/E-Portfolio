@@ -86,7 +86,7 @@ h1, h2, h3, h4, h5, h6, span {
 }
 
 section {
-    padding: 60px 0;
+    padding: 40px 0;
 }
 
 section:nth-child(even) {
@@ -372,7 +372,7 @@ nav {
 }
 
 .project__list {
-    padding-top: 40px;
+    padding-bottom: 0;
 
 }
 
