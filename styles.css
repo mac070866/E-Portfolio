@@ -320,11 +320,11 @@ nav {
 /* PROJECTS */
 
 .project {
-    margin-bottom: 135px;
+    margin-bottom: 48px;
 }
 
 .project:last-child {
-    margin-bottom: 40px;
+    margin-bottom: 0px;
 }
 
 .project__img {
@@ -424,7 +424,6 @@ footer {
     align-items: center;
     justify-content: center;
     padding: 8% 0;
-
 }
 
 .footer__logo--img {
